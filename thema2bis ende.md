@@ -1464,4 +1464,13 @@ Reflexion ist wichtig, weil:
 - Stundensatz = Kostensatz + Gewinnanteil
 
 **TCO, ROI, Amortisation:**
-- TCO = Anschaffung + Betrieb + Wartung + Entso
+- TCO = Anschaffung + Betrieb + Wartung + Entsorgung
+- ROI = (Gewinn - Investition) ÷ Investition × 100%
+- Amortisation = Investition ÷ jährliche Einsparung
+
+---
+
+# Prüfungsvorbereitung: IT-Systemelektroniker
+## Klassenarbeit - Themen 3: Clients in Rechnernetzwerke einbinden
+
+---
